@@ -39,5 +39,3 @@ Visualization of important stats were produced using Matplotlib and Seaborn libr
 # Detail Analysis of various Hospital Factors
 Detail study on hospital dataset was done and interesting insights is done by means of visualisation. The dataset used was "Hospital General Information" which can be found in dataset folder
 
-
-
