@@ -20,4 +20,6 @@ Detail study of SVM using dataset of Gender Recognition by voice, by comparing t
 # Data Visualisation of IPL statistics
 Visualization of important stats were produced using Matplotlib and Seaborn library to analyse the trend and generate insights. Important stats included highest run getters, Toss-Win factor, total matches played-won factor, Most wins by big margin(Greater than 50 runs or more than 8 wickets)by teams etc.
 
- 
+# Detail Analysis of various Hospital Factors
+Detail study on hospital dataset was done and interesting insights is done by means of visualisation.
+
